@@ -55,23 +55,29 @@ Ensure you have the following installed:
 
 ### 📦 Installation
 
-```bash
+
 # Clone the repository
+```bash
 git clone https://github.com/your-username/react-todo-app.git
 ```
 # Navigate to the project directory
+```bash
 cd react-todo-app
+```
 
 # Install dependencies
+```bash
 npm install
-``
+```
 
 ### ▶️ Run the App
 
 ```bash
 npm start
 ```
-
 Then, open your browser and visit http://localhost:3000.
 
-📸 Screenshots
+# 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/55f979f1-5134-4c6c-be27-12ff95780c1c)
+
