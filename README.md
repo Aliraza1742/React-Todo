@@ -77,7 +77,7 @@ npm start
 ```
 Then, open your browser and visit http://localhost:3000.
 
-# 📸 Screenshots
+# 📸 Screenshot:
 
 ![image](https://github.com/user-attachments/assets/55f979f1-5134-4c6c-be27-12ff95780c1c)
 
